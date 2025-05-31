@@ -1,12 +1,12 @@
 {
   "accounts": [
     {
-      "username": "1",
-      "password": "1",
-      "hwid": "",
+      "username": "user1",
+      "password": "pass1",
+      "hwid": "{b203cfe4-fa02-11ef-851f-806e6f6e6963}",
       "sub": "true",
-      "uid": "1",
-      "invitedBy": "system"
+      "uid": "1001",
+      "invitedBy": "admin"
     }
   ]
 }
