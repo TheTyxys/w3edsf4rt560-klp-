@@ -1,0 +1,12 @@
+{
+  "accounts": [
+    {
+      "username": "1",
+      "password": "1",
+      "hwid": "",
+      "sub": "true",
+      "uid": "1",
+      "invitedBy": "system"
+    }
+  ]
+}
